@@ -45,9 +45,9 @@ METOD2
 
   3_step -- execute a series of commands:
 
-  edl w boot_b kitsune_patched.img --loader=firehoseRM6R.elf --memory=ufs --lun=4
+  edl w boot_b boot.img --loader=firehoseRM6R.elf --memory=ufs --lun=4
 
-  edl w vbmeta_b patch-vbmeta.img --loader=firehoseRM6R.elf --memory=ufs --lun=4
+  edl w vbmeta_b vbmeta.img --loader=firehoseRM6R.elf --memory=ufs --lun=4
 
   Step 4 -- Unplug the device from usb and restart your device by holding the power button until you hear a vibration.
 
