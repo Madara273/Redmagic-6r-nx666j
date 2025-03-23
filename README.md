@@ -25,8 +25,8 @@ METOD1
 9. Find LUN4 and select boot_b, right-click and choose "write (boot_b.img)". Find the corrected boot.img in the file manager and press "download".
 
 11. Do the same with vbmeta_b in LUN4, but with the corresponding corrected vbmeta.img.
-12. 
-13. That's it! Your RedMagic 6R device is now rooted. Press "reboot" in the unlocking tool and wait for your phone to boot up.
+
+12. That's it! Your RedMagic 6R device is now rooted. Press "reboot" in the unlocking tool and wait for your phone to boot up.
 
 --------------------------------------------------------------------------------------------------------------------------
 
